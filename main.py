@@ -19,3 +19,4 @@ def home():
             "/search?query=Allah"
         ]
     }
+    
